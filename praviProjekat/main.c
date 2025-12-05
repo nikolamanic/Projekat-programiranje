@@ -204,4 +204,3 @@ int main()
     fclose(dat);
     return 0;
 }
-hvl lazo
